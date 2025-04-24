@@ -30,7 +30,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
             children: [
               TextFormField(
                 controller: nameController,
-                decoration: const InputDecoration(labelText: 'Name'),
+                decoration: const InputDecoration(labelText: 'Name'),//HELLOW
               ),
               const SizedBox(height: 12),
               TextFormField(
